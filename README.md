@@ -1,1 +1,8 @@
 # CS4110-ME1
+Alan Turing’s “Computing Machinery and Intelligence” really made me think about whether machines can actually be smart, like humans. In the essay, Turing suggests something called the “imitation game” (now the Turing Test) as a way to see if machines can act like humans in conversation. It was interesting to see how Turing thought about this topic, especially considering how much technology has grown since his time. I was surprised by how many good questions he raised about the difference between human thinking and machine intelligence.
+
+One thing that caught my attention was how Turing responded to the doubts people had about machines being smart. For example, some said machines can’t be intelligent because they can’t be original or have real feelings. Turing had some smart answers to these criticisms. I liked his idea that machines could learn, just like humans do, if they were programmed in the right way. It made me realize how much machines can actually do, even if they aren’t quite like humans yet.
+
+Even though I found his arguments interesting, I still have my doubts. Today’s machines are impressive, but they still don’t fully think or feel like humans. While I agree with Turing that machines can be intelligent in their own way, I think human intelligence is much more complex because of our experiences and emotions. I wonder if Turing was being a bit too optimistic about how far machines could go.
+
+Overall, reading Turing’s essay was eye-opening. He had such a futuristic view of machines and intelligence, and it’s clear his work laid the groundwork for modern AI. While we haven’t reached the level of thinking machines he imagined, Turing’s ideas continue to inspire people to keep pushing the boundaries of technology.
